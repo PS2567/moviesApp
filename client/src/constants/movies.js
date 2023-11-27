@@ -1,0 +1,76 @@
+const movies = [{
+    id:1,
+    title:'Ironman',
+    poster:'',
+    rating:9
+},
+{
+id:2,
+title:'Batman',
+poster:'',
+rating:9
+},
+{
+    id:3,
+    title:'Superman',
+    poster:'',
+    rating:9
+},
+{
+     id:4,
+     title:'WonderWomen',
+    poster:'',
+    rating:9
+ },
+ {
+    id:5,
+    title:'SpiderMan',
+    poster:'',
+    rating:9
+    },
+    {
+        id:6,
+        title:'InterStellar',
+        poster:'',
+        rating:9
+    },
+    {
+         id:7,
+         title:'Inception',
+        poster:'',
+        rating:9
+     },
+     {
+        id:8,
+        title:'Avengers',
+        poster:'',
+        rating:9
+        },
+        {
+            id:9,
+            title:'Ice-Age',
+            poster:'',
+            rating:9
+        },
+        {
+             id:10,
+             title:'Frozen',
+            poster:'',
+            rating:9
+         },
+         {
+            id:11,
+            title:'The Lion King',
+            poster:'',
+            rating:9
+        },
+        {
+             id:12,
+             title:'Minions',
+            poster:'',
+            rating:9
+         },
+]
+export{
+    movies
+}

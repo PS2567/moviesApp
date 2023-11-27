@@ -1,0 +1,76 @@
+const movies = [{
+    id:1,
+    title:'Ironman',
+    poster:'http://poster.com/batman',
+    rating:9
+},
+{
+id:2,
+title:'Batman',
+poster:'http://poster.com/batman',
+rating:9
+},
+{
+    id:3,
+    title:'Superman',
+    poster:'http://poster.com/batman',
+    rating:9
+},
+{
+     id:4,
+     title:'WonderWomen',
+    poster:'http://poster.com/batman',
+    rating:9
+ },
+ {
+    id:5,
+    title:'SpiderMan',
+    poster:'http://poster.com/batman',
+    rating:9
+    },
+    {
+        id:6,
+        title:'InterStellar',
+        poster:'http://poster.com/batman',
+        rating:9
+    },
+    {
+         id:7,
+         title:'Inception',
+        poster:'http://poster.com/batman',
+        rating:9
+     },
+     {
+        id:8,
+        title:'Avengers',
+        poster:'http://poster.com/batman',
+        rating:9
+        },
+        {
+            id:9,
+            title:'Ice-Age',
+            poster:'http://poster.com/batman',
+            rating:9
+        },
+        {
+             id:10,
+             title:'Frozen',
+            poster:'"http://poster.com/batman',
+            rating:9
+         },
+         {
+            id:11,
+            title:'The Lion King',
+            poster:'http://poster.com/batman',
+            rating:9
+        },
+        {
+             id:12,
+             title:'Minions',
+            poster:'http://poster.com/batman',
+            rating:9
+         },
+]
+module.exports = {
+    movies
+}
